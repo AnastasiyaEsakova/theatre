@@ -1,0 +1,5 @@
+.header__container{
+  width: calc(100vw - 810px);
+  margin: 0 auto;
+  padding-top: 51px;
+}

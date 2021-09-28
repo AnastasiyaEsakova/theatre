@@ -1,0 +1,11 @@
+.header__menu-list{
+  list-style-type: none;
+  margin-right: 63px;
+}
+.header__menu-list:nth-of-type(5n){
+  margin-right: 167px;
+}
+.header__menu-list:last-of-type{
+  margin-right: 0;
+  border-bottom: 2px solid #D1A954;
+}

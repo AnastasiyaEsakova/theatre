@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: 'Open Sans Condensed';
+    font-style:  normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url("./Open_Sans/OpenSans_Condensed-Light.ttf");
+  }
+  @font-face {
+    font-family: 'Open Sans Condensed';
+    font-style:  normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url("./Open_Sans/OpenSans_Condensed-Bold.ttf");
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./Open_Sans/OpenSans-Regular.ttf");
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    font-style:  normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url("./Open_Sans/OpenSans-Bold.ttf");
+  }
+
+
+
+
