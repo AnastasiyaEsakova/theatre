@@ -1,4 +1,4 @@
-.header__description{
+.about__text-fulltext{
   font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
@@ -6,5 +6,4 @@
   line-height: 150%;
   margin: 0;
   padding: 0;
-  margin-bottom: 49px;
 }

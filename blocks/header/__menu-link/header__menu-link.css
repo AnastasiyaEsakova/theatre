@@ -2,6 +2,8 @@
   text-decoration: none;
   text-transform: uppercase;
   color: #fff;
+  opacity: .7;
+  transition: opacity .3s linear;
   font-family: Open Sans Condensed;
   font-style: normal;
   font-weight: bold;
@@ -9,4 +11,6 @@
   line-height: 25px;
   letter-spacing: 0.1em;
 }
-
+.header__menu-link:hover{
+  opacity: 1;
+}

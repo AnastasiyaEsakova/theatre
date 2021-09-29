@@ -1,12 +1,12 @@
-.header__title{
+.about__subtitle{
   font-family: Open Sans Condensed;
   font-style: normal;
   font-weight: bold;
-  font-size: 64px;
-  line-height: 87px;
+  font-size: 21px;
+  line-height: 29px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   margin: 0;
   padding: 0;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }

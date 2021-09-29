@@ -1,0 +1,8 @@
+.about__numbers-seats{
+  background-image: url(../../../images/about__seats.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 70px;
+  height: 70px;
+}
