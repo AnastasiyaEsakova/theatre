@@ -1,0 +1,15 @@
+.projects__image-data{
+  font-family: Open Sans Condensed;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 446px;
+  left: -8px;
+}

@@ -1,0 +1,8 @@
+.projects__slider{
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  margin-left: 150px;
+}
