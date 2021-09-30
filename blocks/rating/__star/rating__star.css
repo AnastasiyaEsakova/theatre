@@ -1,0 +1,10 @@
+.rating__star{
+  background-image: url(../../../images/star.svg);
+  background-repeat: no-repeat;
+  width: 26px;
+  height: 24px;
+  margin-right: 25px;
+}
+.rating__star:last-of-type{
+  margin-right: 0;
+}

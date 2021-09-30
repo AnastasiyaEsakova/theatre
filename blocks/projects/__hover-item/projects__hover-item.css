@@ -5,4 +5,12 @@
   position: absolute;
   top: 225px;
   left: 171px;
+  display: none;
+  cursor: pointer;
+}
+.projects__image:hover ~ .projects__hover-item{
+  display: block;
+}
+.projects__hover-item:hover{
+  display: block;
 }

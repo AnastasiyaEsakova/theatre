@@ -1,4 +1,8 @@
 .projects__image{
   width: 443px;
   height: 550px;
+  opacity: .5;
+}
+.projects__image:hover{
+  opacity: 1;
 }

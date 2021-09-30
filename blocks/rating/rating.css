@@ -1,0 +1,12 @@
+.rating{
+  background-image: url(../../images/rating__image.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 1110px;
+  height: 550px;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  margin-bottom: 150px;
+}
