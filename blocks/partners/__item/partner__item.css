@@ -1,0 +1,12 @@
+.partner__item{
+  background-image: url(../../../images/partners__item.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 200px;
+  height: 96px;
+  margin-right: 78px;
+  margin-bottom: 80px;
+}
+.partner__item:nth-of-type(4n){
+  margin-right: 0;
+}
