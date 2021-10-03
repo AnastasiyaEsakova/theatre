@@ -72,5 +72,10 @@
 @import url(../blocks/contacts/__info-text/contacts__info-text.css);
 @import url(../blocks/contacts/__button/contacts__button.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__designer/footer__designer.css);
+
 
 

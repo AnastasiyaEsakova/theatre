@@ -12,6 +12,8 @@
   padding: 0;
   grid-area: input-text;
   width: 100%;
+  padding-left: 15px;
+  padding-top: 10px;
 }
 .contacts__text:focus{
   outline: none;
@@ -22,6 +24,4 @@
   font-weight: 600;
   font-size: 12px;
   line-height: 150%;
-  padding-left: 15px;
-  padding-top: 10px;
 }
