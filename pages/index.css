@@ -3,6 +3,14 @@
 @import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
 
+@import url(../blocks/navbar/navbar.css);
+@import url(../blocks/navbar/__contacts/navbar__contacts.css);
+@import url(../blocks/navbar/__link/navbar__link.css);
+@import url(../blocks/navbar/__line/navbar__line.css);
+@import url(../blocks/navbar/__social/navbar__social.css);
+@import url(../blocks/navbar/__soc-link/navbar__soc-link.css);
+@import url(../blocks/navbar/__soc-image/navbar__soc-image.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__container/header__container.css);
 @import url(../blocks/header/__menu/header__menu.css);

@@ -1,0 +1,11 @@
+.navbar__soc-link{
+  margin-bottom: 30px;
+  opacity: .7;
+  transition: opacity .3s linear;
+}
+.navbar__soc-link:last-of-type{
+  margin-bottom: 86px;
+}
+.navbar__soc-link:hover{
+  opacity: 1;
+}

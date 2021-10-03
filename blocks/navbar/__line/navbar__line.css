@@ -1,0 +1,8 @@
+.navbar__line{
+  border: 2px solid #C4C4C4;
+  box-sizing: border-box;
+  background-color: #C4C4C4;
+  height: 80px;
+  width: 3px;
+  margin: 0 auto;
+}
