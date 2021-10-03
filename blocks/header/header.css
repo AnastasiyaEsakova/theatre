@@ -1,5 +1,5 @@
 .header{
-  width: 100%;
+  width: 100vw;
   background-image: url(../../images/header_background.jpg);
   background-size: cover;
   background-position: center;

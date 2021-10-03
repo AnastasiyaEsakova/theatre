@@ -1,0 +1,27 @@
+.contacts__text{
+  background: #444444;
+  border: 1px solid #616161;
+  box-sizing: border-box;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 150%;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  grid-area: input-text;
+  width: 100%;
+}
+.contacts__text:focus{
+  outline: none;
+}
+.contacts__text::placeholder{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 150%;
+  padding-left: 15px;
+  padding-top: 10px;
+}

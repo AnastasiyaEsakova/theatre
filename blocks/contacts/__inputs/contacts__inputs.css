@@ -1,0 +1,8 @@
+.contacts__inputs{
+  display: grid;
+  grid-template-columns: 180px 180px 310px;
+  grid-template-areas:
+  "input-name input-company input-text"
+  "input-phone input-email input-text";
+  gap: 30px;
+}
